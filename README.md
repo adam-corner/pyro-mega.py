@@ -29,10 +29,10 @@ First, [create an account with Mega](https://mega.nz/aff=Zo6IxNaHw14) .
 
 ### Install mega.py package
 
-Run the following command to install [pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py)
+Run the following command to install my fork [pyro-mega.py](https://github.com/BlackCatDevel0per/pyro-mega.py)
 
 ```python
-pip3 install git+https://github.com/Itz-fork/pyro-mega.py
+pip3 install git+https://github.com/BlackCatDevel0per/pyro-mega.py
 ```
 
 ### Import mega.py
